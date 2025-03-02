@@ -8,8 +8,6 @@ How I wrote a program to to export survey results into custom tables and reduce 
 
 ### Scripts
 - **ftftable.R**: R code for producing custom tables for Feed the Future reports.
-- **ftftable.do**: Stata code for producing custom tables for Feed the Future reports.
 
 ### Output
 - **Table1.xlsx**: Customized table for Feed the Future reporting created by the R program.
-- **Table2.xlsx**: Customized table for Feed the Future reporting created by the Stata program.
